@@ -30,3 +30,7 @@ UNEP-WCMC and IUCN (2025), Protected Planet: The World Database on Protected Are
 ## Librerías Necesarias
 ```r
 install.packages(c("sf", "dplyr", "mapdeck"))
+```
+
+## Mapa
+https://isaacreyes123ir-debug.github.io/wdpa-ecuador-map/map_ecuador.html
