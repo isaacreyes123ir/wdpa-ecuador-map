@@ -33,4 +33,4 @@ install.packages(c("sf", "dplyr", "mapdeck"))
 ```
 
 ## Mapa
-https://isaacreyes123ir-debug.github.io/wdpa-ecuador-map/map_ecuador.html
+https://isaacreyes123ir.github.io/wdpa-ecuador-map/map_ecuador.html
